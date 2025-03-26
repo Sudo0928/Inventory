@@ -1,0 +1,58 @@
+{
+  "Items": [
+    {
+      "key": 3001,
+      "name": "IronHelmat",
+      "Atk": 0,
+      "Def": 1,
+      "Hp": 2,
+      "Critical": 0,
+      "equipType": 0
+    },
+    {
+      "key": 3002,
+      "name": "IronChestplate",
+      "Atk": 0,
+      "Def": 2,
+      "Hp": 5,
+      "Critical": 0,
+      "equipType": 1
+    },
+    {
+      "key": 3003,
+      "name": "IronLeggings",
+      "Atk": 0,
+      "Def": 2,
+      "Hp": 3,
+      "Critical": 0,
+      "equipType": 2
+    },
+    {
+      "key": 3004,
+      "name": "IronBoots",
+      "Atk": 0,
+      "Def": 1,
+      "Hp": 1,
+      "Critical": 0,
+      "equipType": 3
+    },
+    {
+      "key": 3005,
+      "name": "IronSword",
+      "Atk": 5,
+      "Def": 0,
+      "Hp": 0,
+      "Critical": 5,
+      "equipType": 4
+    },
+    {
+      "key": 3006,
+      "name": "IronNecklace",
+      "Atk": 0,
+      "Def": 0,
+      "Hp": 5,
+      "Critical": 10,
+      "equipType": 5
+    }
+  ]
+}

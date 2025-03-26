@@ -1,0 +1,116 @@
+{
+  "Items": [
+    {
+      "key": 1001,
+      "name": "Wood",
+      "description": "나무",
+      "iconPath": "Items/Icon/wood",
+      "maxStack": 64,
+      "itemType": 0
+    },
+    {
+      "key": 1002,
+      "name": "Stone",
+      "description": "돌",
+      "iconPath": "Items/Icon/stone",
+      "maxStack": 64,
+      "itemType": 0
+    },
+    {
+      "key": 1003,
+      "name": "Branch",
+      "description": "나뭇가지",
+      "iconPath": "Items/Icon/wood-stick",
+      "maxStack": 64,
+      "itemType": 0
+    },
+    {
+      "key": 1004,
+      "name": "Brick",
+      "description": "벽돌",
+      "iconPath": "Items/Icon/brick",
+      "maxStack": 64,
+      "itemType": 0
+    },
+    {
+      "key": 1005,
+      "name": "Plank",
+      "description": "판자",
+      "iconPath": "Items/Icon/wood-plank",
+      "maxStack": 64,
+      "itemType": 0
+    },
+    {
+      "key": 2001,
+      "name": "Apple",
+      "description": "사과",
+      "iconPath": "Items/Icon/apple",
+      "maxStack": 64,
+      "itemType": 1
+    },
+    {
+      "key": 2002,
+      "name": "Banana",
+      "description": "바나나",
+      "iconPath": "Items/Icon/apple",
+      "maxStack": 64,
+      "itemType": 1
+    },
+    {
+      "key": 2003,
+      "name": "Strawberrry",
+      "description": "딸기",
+      "iconPath": "Items/Icon/strawberry",
+      "maxStack": 64,
+      "itemType": 1
+    },
+    {
+      "key": 3001,
+      "name": "IronHelmat",
+      "description": "철투구",
+      "iconPath": "Items/Icon/iron-helmat",
+      "maxStack": 1,
+      "itemType": 2
+    },
+    {
+      "key": 3002,
+      "name": "IronChestplate",
+      "description": "철갑옷",
+      "iconPath": "Items/Icon/iron-chestplate",
+      "maxStack": 1,
+      "itemType": 2
+    },
+    {
+      "key": 3003,
+      "name": "IronLeggings",
+      "description": "철바지",
+      "iconPath": "Items/Icon/iron-leggings",
+      "maxStack": 1,
+      "itemType": 2
+    },
+    {
+      "key": 3004,
+      "name": "IronBoots",
+      "description": "철신발",
+      "iconPath": "Items/Icon/iron-boots",
+      "maxStack": 1,
+      "itemType": 2
+    },
+    {
+      "key": 3005,
+      "name": "IronSword",
+      "description": "철검",
+      "iconPath": "Items/Icon/broadswrod",
+      "maxStack": 1,
+      "itemType": 2
+    },
+    {
+      "key": 3006,
+      "name": "IronNecklace",
+      "description": "철목걸이",
+      "iconPath": "Items/Icon/necklace",
+      "maxStack": 1,
+      "itemType": 2
+    }
+  ]
+}
